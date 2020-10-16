@@ -90,3 +90,98 @@ Para poder añadir código tenemos que usar ` ` `
 
 - `Esto es código ` 
 
+Al añadir bloques de código nos da la opción de elegir el lenguaje y si nuestro interprete de markdown en compatible le añadirá los colores al código
+
+Tenemos 2 maneras de hacerlo 
+
+- Con los acentos cerrados
+
+```markdown
+​``` "Lenguaje"
+	
+	"Codigo"
+
+​``` 
+```
+
+  
+
+- Con las virgulillas ~
+
+```t
+~~~ "Lenguaje" 
+	
+	"Codigo"
+
+~~~
+```
+
+   
+
+---
+
+## Atributos al texto 
+
+#### Simples 
+
+- **Negrita** 
+  - `**Negrita** `
+- __Negrita__
+  - `__Negrita__`
+- *Cursiva*
+  - `*Cursiva*`
+- _Cursiva_
+  -	`_Cursiva_`
+- ~~Tachado~~
+  - `~~Tachado~~`
+
+### Combinados 
+
+- ***Cursiva negrita***
+  
+  - `***Cursiva negrita***`
+- ___Cursiva negrita___
+  
+  - `___Cursiva negrita___`
+  
+  
+
+---
+
+## Tabla 
+
+
+|      | a    | b    | c    | d    |
+| ---- | ---- | ---- | ---- | ---- |
+| 1    |      |      |      |      |
+| 2    |      |      |      |      |
+| 3    |      |      |      |      |
+
+
+
+```markdown
+|      | a    | b    | c    | d    |
+| ---- | ---- | ---- | ---- | ---- |
+| 1    |      |      |      |      |
+| 2    |      |      |      |      |
+| 3    |      |      |      |      |
+```
+
+---
+
+## Link
+
+- [Link abreviado](https://www.google.es)
+  - `[Link abreviado](https://www.google.es)`
+- <http://www.google.es>
+  - `<http://www.google.es>`
+
+---
+
+## Extras 
+
+- Para poner la barra solo tenemos que escribir `---`
+
+  ---
+
+  
