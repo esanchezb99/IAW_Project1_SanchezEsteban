@@ -50,6 +50,8 @@ Aquí tenemos todos los ejemplos de listas que se pueden hacer.
 
 ## Sublistas
 
+Se usa como las listas normales pero con un espacio al principio.
+
 - Lista 1
   - Sublista 1
 
@@ -81,6 +83,14 @@ Aquí tenemos todos los ejemplos de listas que se pueden hacer.
 - [x] Tarea 1
 - [ ] Tarea 2
 - [x] Tarea 3
+
+
+
+```markdown
+- [x] Tarea 1
+- [ ] Tarea 2
+- [x] Tarea 3
+```
 
 ---
 
@@ -178,11 +188,13 @@ Tenemos 2 maneras de hacerlo
 
 ---
 
+## Imagenes 
+
+![Palamera](palmera.jpg)
+
+---
 ## Extras 
 
 - Para poner la barra solo tenemos que escribir `---`
 
   ---
-
-
-
