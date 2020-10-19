@@ -10,7 +10,7 @@
 
   
 
-##### Iniciar el repositorio
+##### Comandos básicos de uso 
 
 - Iniciamos el repositorio git `git init`
 - Lista los archivos y directorios agregados y modificados `git status`
